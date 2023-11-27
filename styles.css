@@ -1,0 +1,27 @@
+#pn {
+    background-color: green;
+}
+
+#pn:hover {
+    background-color: blanchedalmond;
+}
+
+#vt:hover {
+    color: red;
+}
+
+#cr:disabled {
+    color: aliceblue;
+}
+
+#ch:hover {
+    font-size: 50px;
+}
+
+#pt {
+    background-color: aliceblue;
+}
+
+#pt:hover {
+    background-color: antiquewhite;
+}
